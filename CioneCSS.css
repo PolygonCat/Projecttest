@@ -1,0 +1,87 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.header {
+   background-color: #333333;
+   font-size: 26px;
+    color: #ffcc66;
+    text-align: center;
+    padding: 16px;
+    
+}
+
+a {
+    color: white;
+    font-weight: lighter;
+    opacity: 0.9;
+    padding: 26px ;
+    font-family: monospace;
+    text-decoration: none;
+    
+}
+.header a{
+    padding: 14px;
+}
+.header a:hover{
+    background-color: #f00;
+}
+
+.logo{
+    margin: 20px;
+    text-align: center;
+    padding:  10px;
+}
+
+.list{
+    background-color: #3366cc;
+    font-size: 22px;
+    padding: 16px;
+        
+}
+
+.leftmain{
+    float: left;
+    width: 870px;
+    height: auto;
+  
+    margin: 30px 20px;
+    padding: 10px 10px;
+}
+.imgdes{
+    float:  left;
+
+    margin-right: 20px;
+}
+.remove-float{
+    clear:both;
+}
+.praformat{
+   
+    float: left;
+        
+    width: 600px;
+    height: auto;
+    margin: auto;
+}
+    
+.rightmain{
+    background-color: ;
+    margin: 30px;
+    float: left;
+}
+
+.thamkhao{
+    padding-left: 18px;
+    margin: 10px;
+    color: deepskyblue;
+}
+.footer{
+    background-color: #333333;
+   font-size: 16px;
+    color: #ffcc66;
+    text-align: center;
+    padding: 3px;
+    
+}
